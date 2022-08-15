@@ -8,9 +8,10 @@ href="https://fonts.googleapis.com/css?family=Lalezar">
 
 My name is Stella Zhang, currently a student @[UC San Diego](https://www.ucsd.edu/) majoring in **Mathematics and Computer Science**, minoring in **Computer Engineering**.
 
-- 💬 Interested in **full-stack development**, **mobile development**, and **CS Theory**.
-- 👤 learn more about me [here](https://stella-liyu-zhang.github.io/Portfolio/)  (_More info on LinkedIn_)  
+- 💬 Interested in **full-stack development**, **mobile development**, **Product Management** and **CS Theory Research**.
+- 👤 learn more about me [here](https://stella-liyu-zhang.github.io/Portfolio/)  (_More info on [LinkedIn](https://www.linkedin.com/in/stella-liyu-zhang/)_)  
 
+<!------
 ### Languages: 
 
 <div align="left">
@@ -32,3 +33,4 @@ My name is Stella Zhang, currently a student @[UC San Diego](https://www.ucsd.ed
 <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </div>
+--->
