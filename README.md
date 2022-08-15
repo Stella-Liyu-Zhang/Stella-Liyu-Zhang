@@ -11,7 +11,6 @@ My name is Stella Zhang, currently a student @[UC San Diego](https://www.ucsd.ed
 - 💬 Interested in **full-stack development**, **mobile development**, and **CS Theory**.
 - 👤 learn more about me [here](https://stella-liyu-zhang.github.io/Portfolio/)  (_More info on LinkedIn_)  
 
-- ---
 ### Skills: 
 
 <div align="left">
