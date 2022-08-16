@@ -6,10 +6,11 @@ href="https://fonts.googleapis.com/css?family=Lalezar">
   <h3>Hi there 👋 </h3>
 </div>
 
-My name is Stella Zhang, currently a student @[UC San Diego](https://www.ucsd.edu/) majoring in **Mathematics and Computer Science**, with a minor in **Computer Engineering**.
+My name is Stella Zhang, currently a rising Senior @[UC San Diego](https://www.ucsd.edu/) majoring in **Mathematics and Computer Science**, with a minor in **Computer Engineering**.
 
-- 💬 Interested in **full-stack development**, **mobile development**, **Product Management** and **CS Theory Research**.
+- 💬 Interested in **full-stack development**, **Mobile development**, **Product & Project Management** and **CS Theory Research**.
 - 👤 learn more about me [here](https://stella-liyu-zhang.github.io/Portfolio/)  (_More info on [LinkedIn](https://www.linkedin.com/in/stella-liyu-zhang/)_)  
+- I really love to dance!!!!!!
 
 <!------
 ### Languages: 
