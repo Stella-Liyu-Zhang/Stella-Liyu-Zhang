@@ -35,3 +35,48 @@ My name is Stella Zhang, currently a rising Senior @[UC San Diego](https://www.u
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </div>
 --->
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
+Nice to meet you, I'm Sujata Gunale aka TidbitsJS
+
+## Who Am I? 🤠
+
+- 🤓 Self taught Developer 
+- 👩‍💻 Working on Web & App Development 
+- 📝 Writing Words, Compiling Code
+- 🎯 Goal : To be a better Developer 
+- 💌 Fun Facts : 
+    - Loves food but can't' cook 🐼 
+    - Overthinks thinking to not to overthink 🙂
+    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
+
+<br>
+
+ 
+## Github Status 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=stella-liyu-zhang&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=stella-liyu-zhang&theme=react" width="48%" >
+<br>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=stella-liyu-zhang&theme=react-dark)
+<br>
+
+<p align="center">Wanna Know me More?</p>
+
+<p align="center">
+ 
+<a href="https://twitter.com/TidbitsJS" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+
+<a href="https://www.instagram.com/tidbits.js" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
+
+<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+    
+<a href="https://tidbitsjs.medium.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
+
+</p>
