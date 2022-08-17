@@ -17,13 +17,9 @@ My name is Stella Zhang, currently a rising Senior @[UC San Diego](https://www.u
 ### **IDE and Editors** ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ### **Math and Engineering** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ### **Product and Project Management** ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-## Github Status
-
+<!-- 
 <img  src="https://github-readme-stats.vercel.app/api?username=stella-liyu-zhang&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=stella-liyu-zhang&theme=react" width="48%" >
 <br>
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=stella-liyu-zhang&theme=react-dark)
-<br>
+//![github graph](https://activity-graph.herokuapp.com/graph?username=stella-liyu-zhang&theme=react-dark)
+<br> -->
