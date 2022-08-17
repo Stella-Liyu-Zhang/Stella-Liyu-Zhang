@@ -1,9 +1,7 @@
 <link rel="stylesheet"
 href="https://fonts.googleapis.com/css?family=Lalezar">
-    
-
 <div align="center" margin="auto">
-  <h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h2>
+  <h2>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h2>
 </div>
 
 My name is Stella Zhang, currently a rising Senior @[UC San Diego](https://www.ucsd.edu/) majoring in **Mathematics and Computer Science**, with a minor in **Computer Engineering** (*EECS*).
