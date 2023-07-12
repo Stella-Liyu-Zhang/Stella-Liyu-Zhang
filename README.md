@@ -4,9 +4,9 @@ href="https://fonts.googleapis.com/css?family=Lalezar">
   <h2>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h2>
 </div>
 
-My name is Stella Zhang, currently a rising Senior @[UC San Diego](https://www.ucsd.edu/) majoring in **Mathematics and Computer Science**, with a minor in **Computer Engineering** (*EECS*).
+My name is Stella Zhang, currently a recent graduate from @[UC San Diego](https://www.ucsd.edu/) majoring in **Mathematics and Computer Science**. I joined Bentley Systems as a software engineer in January 2023.
 
-- 💬 Interested in **full-stack development**, **Mobile app development**, **Product & Project Management** and **CS Theory Research**.
+- 💬 Interested in **full-stack development**, **System and infrastructure**, and **Cloud Computing**.
 - 👤 learn more about me [here](https://stella-liyu-zhang.github.io/Portfolio/)  (_More info on [LinkedIn](https://www.linkedin.com/in/stella-liyu-zhang/)_)  
 <!-------------
 ### **Programming languages** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
