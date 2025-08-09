@@ -4,8 +4,6 @@ href="https://fonts.googleapis.com/css?family=Lalezar">
   <h2>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h2>
 </div>
 
-My name is Stella Zhang, a recent graduate from @[UC San Diego](https://www.ucsd.edu/) majoring in **Mathematics and Computer Science**. I joined Bentley Systems as a software engineer in January 2023.
-
 - 💬 Interested in **full-stack development**, **System and infrastructure**, and **Cloud Computing**.
 - 👤 learn more about me [here](https://stella-liyu-zhang.github.io/Portfolio/)  (_More info on [LinkedIn](https://www.linkedin.com/in/stella-liyu-zhang/)_)  
 <!-------------
